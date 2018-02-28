@@ -230,16 +230,11 @@ fi
 cat <<EOF
 
 Welcome to WaRP7 BSP !
-__        __    ____  ____ _____ 
-\ \      / /_ _|  _ \|  _ \___  |
- \ \ /\ / / _` | |_) | |_) | / / 
-  \ V  V / (_| |  _ <|  __/ / /  
-   \_/\_/ \__,_|_| \_\_|   /_/   
 
 You can now run 'bitbake <target>'
 
 Common targets are:
-    base-image
+	base-image
 	qt5-image
 	meta-toolchain-qt5
 
